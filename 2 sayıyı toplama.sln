@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 sayıyı toplama", "2 sayıyı toplama\2 sayıyı toplama.csproj", "{FC16361D-D678-4B7E-A291-A6E679A91D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC16361D-D678-4B7E-A291-A6E679A91D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC16361D-D678-4B7E-A291-A6E679A91D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC16361D-D678-4B7E-A291-A6E679A91D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC16361D-D678-4B7E-A291-A6E679A91D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA38ECF1-26D4-4767-9913-154BFD64E3E7}
+	EndGlobalSection
+EndGlobal

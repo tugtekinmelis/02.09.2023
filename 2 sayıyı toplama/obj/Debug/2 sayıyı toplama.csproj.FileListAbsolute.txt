@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\bin\Debug\2 sayıyı toplama.exe.config
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\bin\Debug\2 sayıyı toplama.exe
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\bin\Debug\2 sayıyı toplama.pdb
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\obj\Debug\2 sayıyı toplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\obj\Debug\2 sayıyı toplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\obj\Debug\_2_sayıyı_toplama.Form1.resources
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\obj\Debug\_2_sayıyı_toplama.Properties.Resources.resources
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\obj\Debug\2 sayıyı toplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\obj\Debug\2 sayıyı toplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\obj\Debug\2 sayıyı toplama.exe
+C:\Users\User\source\repos\2 sayıyı toplama\2 sayıyı toplama\obj\Debug\2 sayıyı toplama.pdb
